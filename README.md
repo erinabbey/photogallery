@@ -3,7 +3,9 @@ How to run
 * npm start
 
 
-https://user-images.githubusercontent.com/45890409/120297943-cdc4cb80-c2f3-11eb-89f5-0883ac042519.mp4
+![photogallery](https://user-images.githubusercontent.com/45890409/120298667-7e32cf80-c2f4-11eb-899b-223003debb43.gif)
+
+
 
 
 
